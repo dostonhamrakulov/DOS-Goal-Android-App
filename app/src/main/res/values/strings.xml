@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Goal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Doston Hamrakulov</string>
+    <string name="nav_header_subtitle">bilim.kuchdir@gmail.com</string>
+    <string name="nav_header_desc">Software Developer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="countdown">There are only</string>
+    <string name="countdownleft">till Christmas!</string>
+</resources>
