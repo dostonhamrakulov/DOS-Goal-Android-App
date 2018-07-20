@@ -14,7 +14,7 @@
         android:text="This is first release"
         android:textSize="25dp"
         android:textStyle="bold"
-        
+
         android:layout_centerHorizontal="true"
         android:id="@+id/textView1" />
 
